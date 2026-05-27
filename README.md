@@ -20,7 +20,7 @@
 
 ## Deskripsi Sistem
 
-Smart Cooling System merupakan sistem pendingin otomatis berbasis arduino yang digunakan untuk melakukan monitoring suhu secara real-time dan mengontrol kecepatan kipas secara otomatis berdasarkan kondisi suhu.
+Smart Cooling System merupakan sistem pendingin otomatis berbasis ESP32 yang digunakan untuk melakukan monitoring suhu secara real-time dan mengontrol kecepatan kipas secara otomatis berdasarkan kondisi suhu.
 
 Sistem juga dilengkapi fitur emergency stop untuk menghentikan seluruh sistem ketika kondisi darurat terjadi.
 
@@ -40,7 +40,7 @@ Sistem juga dilengkapi fitur emergency stop untuk menghentikan seluruh sistem ke
 
 ## Komponen yang Digunakan
 
-- Arduino Uno
+- ESP32
 - Sensor TMP36
 - LCD 16x2 I2C
 - Motor DC / Kipas
