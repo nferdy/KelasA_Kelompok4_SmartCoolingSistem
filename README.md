@@ -20,7 +20,7 @@
 
 ## Deskripsi Sistem
 
-Smart Cooling System merupakan sistem pendingin otomatis berbasis Arduino yang digunakan untuk melakukan monitoring suhu secara real-time dan mengontrol kecepatan kipas secara otomatis berdasarkan kondisi suhu.
+Smart Cooling System merupakan sistem pendingin otomatis berbasis arduino yang digunakan untuk melakukan monitoring suhu secara real-time dan mengontrol kecepatan kipas secara otomatis berdasarkan kondisi suhu.
 
 Sistem juga dilengkapi fitur emergency stop untuk menghentikan seluruh sistem ketika kondisi darurat terjadi.
 
