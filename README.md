@@ -1,4 +1,4 @@
-# SismikA_Kelompok4_SmartCoolingSistem
+# KelasA_Kelompok4_SmartCoolingSistem
 
 # Smart Cooling System
 
@@ -74,6 +74,6 @@ Diagram blok dan flowchart sistem akan ditambahkan pada progress selanjutnya.
 
 ## Mata Kuliah
 
-Sistem Mikrokontroler  
+Sistem Mikrokontroler A
 Jurusan Teknik Komputer  
 Universitas Jenderal Soedirman
