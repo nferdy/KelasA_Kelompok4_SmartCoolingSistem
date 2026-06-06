@@ -18,6 +18,16 @@
 
 ---
 
+## Dokumentasi
+
+<img width="4096" height="3072" alt="Image" src="https://github.com/user-attachments/assets/d1b6d615-5de3-4d8d-b14e-eb5df87c73f7" />
+
+
+Video:
+https://drive.google.com/file/d/1X7EJUeB1AI30bs11OdPSwcFdYJYhN-N2/view?usp=sharing
+
+---
+
 ## Deskripsi Sistem
 
 Smart Cooling System merupakan sistem pendingin otomatis berbasis ESP32 yang digunakan untuk melakukan monitoring suhu secara real-time dan mengontrol kecepatan kipas secara otomatis berdasarkan kondisi suhu.
